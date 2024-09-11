@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @mulada13
-
--
+@mulada13
